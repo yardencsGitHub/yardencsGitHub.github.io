@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-  
+Site is under construction
+=======
+
 New personal statement text  
 ======
 
