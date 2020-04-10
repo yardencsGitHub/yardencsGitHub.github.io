@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justified">
+  
 New personal statement text  
 ======
 
