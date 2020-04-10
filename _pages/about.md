@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justified">
 New personal statement text  
 ======
 
@@ -30,5 +30,5 @@ rooted in my understanding of the neurobiological basis of learning and memory. 
 students will develop a mechanistic picture of the nervous system using the biological and mathematical
 languages by which we study and explain brain functions. My guiding principles in achieving this goal are
 comprehensiveness and clarity.
-
+</div>
 
