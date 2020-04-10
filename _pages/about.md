@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 New personal statement text  
+======
 
-**Research interests - how does the brain work?**
+Research interests - how does the brain work?
+======
 
 The neural language of song
 ======
