@@ -22,8 +22,8 @@ Education
 
 Research Experience:
 ======
-# Postdoctoral Associat  (*January 2016 to Present*)
-Gardner Lab, Boston University Department of Biology
+## Postdoctoral Associate  (*January 2016 to Present*)
+**Gardner Lab, Boston University Department of Biology**
 Research Summary: (1) Adapted calcium imaging techniques to awake behaving canaries and studied neural
 coding of correlated song sequences. The key nding was that hidden network states support behavior transition
 syntax rules with long-range history dependence. (2) Deep neural network algorithms development - outperforming
