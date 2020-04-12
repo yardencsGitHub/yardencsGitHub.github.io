@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics and Mathematics, Hebrew University, 2000
+* M.Sc. in Physics, Weizmann Institute of Science, 2010 (*advisor: Prof. [Elad Schneidman]*(https://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html))
+* Ph.D in Neurobiology, Weizmann Institute of Science, 2016 ()
 
 Work experience
 ======
