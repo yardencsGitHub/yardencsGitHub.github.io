@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Physics and Mathematics, Hebrew University, 2000
-* M.Sc. in Physics, Weizmann Institute of Science, 2010 (*advisor: Prof. [Elad Schneidman]*(https://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html))
+* M.Sc. in Physics, Weizmann Institute of Science, 2010 (*advisor: Prof. [Elad Schneidman](https://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html)*)
 * Ph.D in Neurobiology, Weizmann Institute of Science, 2016 ()
 
 Work experience
