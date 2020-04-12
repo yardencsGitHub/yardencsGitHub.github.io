@@ -29,13 +29,14 @@ coding of correlated song sequences. The key nding was that hidden network stat
 syntax rules with long-range history dependence. (2) Deep neural network algorithms development - outperforming
 the state-of-the-art method for birdsong annotation. (3) Collaborated with the Cogan lab from UT Dallas to
 develop scalable ultramicroelectrode arrays for neural stimulation and recording.
-Graduate Student October 2007 to January 2016
-Paz and Schneidman labs, Weizmann Institute of Science Department of Neurobiology
-Research Summary: Modeled human classication learning. Found that visual feature-based reinforcement
+
+## Graduate Student October 2007 to January 2016
+**Paz and Schneidman labs, Weizmann Institute of Science Department of Neurobiology**
+Research Summary: Modeled human classification learning. Found that visual feature-based reinforcement
 learning models can capture, predict and be used to in
 uence behavior - and boost learning. Trained monkeys on
-classication tasks and recorded single neurons while the animals learned new rules. Developed a novel projection
-of neural activity on visual features to discover dierent learning dynamics in cortex and striatum.
+classification tasks and recorded single neurons while the animals learned new rules. Developed a novel projection
+of neural activity on visual features to discover different learning dynamics in cortex and striatum.
 
 Work experience
 ======
