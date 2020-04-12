@@ -73,11 +73,16 @@ Teaching
   
 Honors and Awards
 ======
- Dr. Oboh-Weilke Postdoctoral Travel Award 2019
- Nvidia GPU Grant 2017
- Neurizons2013 2nd place poster prize 2013
- Member of the honors program of the faculty of science, The Hebrew University 1997-2000
+* Dr. Oboh-Weilke Postdoctoral Travel Award (*2019*)
+* Nvidia GPU Grant (*2017*)
+* Neurizons2013 2nd place poster prize (*2013*)
+* Member of the honors program of the faculty of science, The Hebrew University (*1997-2000*)
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+**Popular lectures for school children (*2018*)**
+Overview: My presentations in a local elementary school, \What can we learn from songbirds?" aim to
+communicate the passion for science and describe some of the questions we have and how songbirds can
+help us answer them in the lab.
+
+**Ad Hoc Referee:** journal of behavioral processes (*2017-present*)
