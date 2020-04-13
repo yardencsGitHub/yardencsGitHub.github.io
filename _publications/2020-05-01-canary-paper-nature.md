@@ -1,7 +1,7 @@
 ---
 title: "Hidden neural states underlie canary song syntax"
 collection: publications
-permalink: /publication/2020-05-01-canary-paper-nature-2020
+permalink: /publication/2020-05-01-canary-paper-nature
 excerpt: 'Description of canary paper'
 date: 2020-05-01
 venue: 'Nature'
