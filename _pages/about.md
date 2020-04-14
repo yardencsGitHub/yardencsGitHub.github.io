@@ -22,10 +22,12 @@ The question of how neurons cooperate in a massively interconnected network to g
 
 Current research: The neural language of song
 ======
-In flexible behavior like speech and tool-use, the brain uses the identity of past actions to select upcoming ones. This form of memory impacts premotor neural activity. Its dysfunction leads to notable speech and executive-motor deterioration in aging and neurodegenerative or mental illnesses. **My ultimate goal is to understand how an acquired, versatile, and adaptable behavior such as speech emerges from unreliable spiking neurons and plastic synapses.** Using machine-learning-based real-time behavior perturbations and powerful experimental tools for recording and manipulating identified neural components I will systematically dissect circuits that generate variable motor sequences in a uniquely-advantageous model – canaries. Exploiting canaries’ innate and rich song behavior, characterized by high-order syntax rules and precise execution of basic elements, my research follows two broad questions. First, what circuit components and forms of neural activity support their repertoire of vocal sequences? Second, how can such a stable neural function be learned, maintained, and re-learned from a memorized copy while seasonally losing many neurons and incorporating new ones into the circuit? These questions are central to our overall understanding of brain function, but are uniquely accessible in canaries.
+<p style="text-align: justify">
+In flexible behavior like speech and tool-use, the brain uses the identity of past actions to select upcoming ones. This form of memory impacts premotor neural activity. Its dysfunction leads to notable speech and executive-motor deterioration in aging and neurodegenerative or mental illnesses. **My ultimate goal is to understand how an acquired, versatile, and adaptable behavior such as speech emerges from unreliable spiking neurons and plastic synapses.** Using machine-learning-based real-time behavior perturbations and powerful experimental tools for recording and manipulating identified neural components I will systematically dissect circuits that generate variable motor sequences in a uniquely-advantageous model – canaries. Exploiting canaries’ innate and rich song behavior, characterized by high-order syntax rules and precise execution of basic elements, my research follows two broad questions. First, what circuit components and forms of neural activity support their repertoire of vocal sequences? Second, how can such a stable neural function be learned, maintained, and re-learned from a memorized copy while seasonally losing many neurons and incorporating new ones into the circuit? These questions are central to our overall understanding of brain function, but are uniquely accessible in canaries.</p>
 
 Teaching philosophy
 ======
+<p style="text-align: justify">
 Henri Poincaré once described how after weeks of struggling with an exceptionally-hard mathematical
 problem the answer suddenly came to him while getting on a bus in his vacation. I believe that mastering
 concepts in exact sciences is an organic process that, like Poincaré’s example, involves creative thinking
@@ -33,6 +35,6 @@ and implicit skill learning. As a teacher and mentor, my role it to facilitate t
 rooted in my understanding of the neurobiological basis of learning and memory. My goal is that all
 students will develop a mechanistic picture of the nervous system using the biological and mathematical
 languages by which we study and explain brain functions. My guiding principles in achieving this goal are
-comprehensiveness and clarity.
+comprehensiveness and clarity.</p>
 
 
