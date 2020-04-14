@@ -2,7 +2,7 @@
 title: "Amorphous Silicon Carbide Platform for Next Generation Penetrating Neural Interface Designs"
 collection: publications
 permalink: /publication/2018-09-20-micromachines-deku-paper
-excerpt: 'sum4'
+excerpt: 'Following the development work we tested more geometries of electrode arrays and included additional case studies in rodents. '
 date: 2018-09-20
 venue: 'Micromachines'
 paperurl: 'https://www.mdpi.com/2072-666X/9/10/480'

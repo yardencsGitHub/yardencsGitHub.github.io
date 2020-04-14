@@ -2,7 +2,7 @@
 title: "It All Depends on the Context, but Also on the Amygdala"
 collection: publications
 permalink: /publication/2015-10-19-cohen-paz-neuron
-excerpt: 'sum2'
+excerpt: 'A preview article.'
 date: 2015-10-19
 venue: 'Neuron'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S089662731500687X'
