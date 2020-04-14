@@ -10,7 +10,8 @@ venue: 'PNAS'
 paperurl: 'https://www.pnas.org/content/110/2/684'
 citation: '<b>Cohen Y</b>, Schneidman E (2013) &quot;High-order feature-based mixture models of classi cation learning predict individual learning curves and enable personalized teaching&quot;. <i>Proc Natl Acad Sci</i> USA 110:684689.'
 ---
-<p style=&quot;text-align: justify&quot;>Pattern classification learning tasks are commonly used to explore
+<p style=&quot;text-align: justify&quot;>
+  Pattern classification learning tasks are commonly used to explore
 learning strategies in human subjects. The universal and individual
 traits of learning such tasks reflect our cognitive abilities and have
 been of interest both psychophysically and clinically. From a computational
@@ -31,7 +32,8 @@ reflect the important role of subjects&apos; priors, and their reliance on
 high-order features even when learning a low-order rule. Further,
 we show that these models predict future individual answers to
 a high degree of accuracy. We then use these models to build personally
-optimized teaching sessions and boost learning.</p>
+optimized teaching sessions and boost learning.
+</p>
 
 [Download paper here](https://www.pnas.org/content/110/2/684)
 
