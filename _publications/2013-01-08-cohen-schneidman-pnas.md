@@ -32,8 +32,7 @@ reflect the important role of subjects&apos; priors, and their reliance on
 high-order features even when learning a low-order rule. Further,
 we show that these models predict future individual answers to
 a high degree of accuracy. We then use these models to build personally
-optimized teaching sessions and boost learning.
-</p>
+optimized teaching sessions and boost learning.</p>
 
 [Download paper here](https://www.pnas.org/content/110/2/684)
 
