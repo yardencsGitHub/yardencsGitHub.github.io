@@ -14,7 +14,6 @@ Site is under construction
 New personal statement text  
 ======
 
-
 Research interests - how does the brain work?
 ======
 <p style="text-align: justify">
