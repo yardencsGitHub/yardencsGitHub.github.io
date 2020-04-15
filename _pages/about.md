@@ -17,7 +17,7 @@ New personal statement text
 Research interests - how does the brain work?
 ======
 <p style="text-align: justify">
-The question of how neurons cooperate in a massively interconnected network to generate high-level cognitive functions is the most intriguing and important problem in today’s biological and medical sciences. An answer to this question entails creating a mechanistic understanding of how from unreliable spiking neurons, connected with plastic synapses, emerge stable brain structures that support reliable functionality. I want to understand how a complex biological system, like the brain, processes sensory and internally generated information to guide behavior and how development and experience shape neural circuits and reorganize their function.</p>
+The question of how neurons cooperate in a massively interconnected network to generate high-level cognitive functions is one of the most intriguing and important problems in today’s biological and medical sciences. An answer to this question entails creating a mechanistic understanding of how from unreliable spiking neurons, connected with plastic synapses, emerge stable brain structures that support reliable functionality. I want to understand how a complex biological system, like the brain, processes sensory and internally generated information to guide behavior and how development and experience shape neural circuits and reorganize their function.</p>
 
 Current research: The neural language of song
 ======
