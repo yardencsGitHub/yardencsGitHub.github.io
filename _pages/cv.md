@@ -22,7 +22,7 @@ Education
 
 Research Experience:
 ======
-## Postdoctoral Associate  (*January 2016 to Present*)
+### Postdoctoral Associate  (*January 2016 to Present*)
 **Gardner Lab, Boston University Department of Biology.**
 Research Summary: (1) Adapted calcium imaging techniques to awake behaving canaries and studied neural
 coding of correlated song sequences. The key finding was that hidden network states support behavior transition
@@ -30,7 +30,7 @@ syntax rules with long-range history dependence. (2) Deep neural network algorit
 the state-of-the-art method for birdsong annotation. (3) Collaborated with the Cogan lab from UT Dallas to
 develop scalable ultramicroelectrode arrays for neural stimulation and recording.
 
-## Graduate Student (October 2007 to January 2016)
+### Graduate Student (October 2007 to January 2016)
 **Paz and Schneidman labs, Weizmann Institute of Science Department of Neurobiology.**
 Research Summary: Modeled human classification learning. Found that visual feature-based reinforcement
 learning models can capture, predict and be used to in
@@ -61,15 +61,11 @@ Publications
   
 Papers in preparation
 -----
-**Cohen Y**, Cvitanovic P, Solla SA "A novel approach to the empirical characterization of learning
-in biological systems".
+* **Cohen Y**, Cvitanovic P, Solla SA "A novel approach to the empirical characterization of learning in biological systems".
 
-**Cohen Y**, Nicholson DA, and Gardner TJ "Segmentation and annotation of birdsong with a hybrid
-recurrent-convolutional neural network".
+* **Cohen Y**, Nicholson DA, and Gardner TJ "Segmentation and annotation of birdsong with a hybrid recurrent-convolutional neural network".
 
-Leman DP, Chen IA, Yen, WW, **Cohen Y**, Perkins, LN, Liberti III WA, Kilic K, Cruz-Martin A,
-Gardner TJ, Otchy TM, Davison IG. "Large-scale cellular-resolution imaging of neural activity in
-freely behaving mice".
+* Leman DP, Chen IA, Yen, WW, **Cohen Y**, Perkins, LN, Liberti III WA, Kilic K, Cruz-Martin A, Gardner TJ, Otchy TM, Davison IG. "Large-scale cellular-resolution imaging of neural activity in freely behaving mice".
 
 Talks
 ======
