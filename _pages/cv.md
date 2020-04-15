@@ -79,9 +79,15 @@ Talks
  
 List of invited talks
 -----
-<div style="text-align: left"> Technion, Rappaport medical school, Dept. of Neuroscience,</div> <div style="text-align: right">December 2019</div>
-Hebrew University, Haddassah medical school, December 2019
-Weizmann Institute, Dept. of Neurobiology, December 2019
+<div style="text-align:left;"> 
+  Technion, Rappaport medical school, Dept. of Neuroscience,<span style="float:right;">December 2019</span>
+</div>
+<div style="text-align:left;"> 
+  Hebrew University, Haddassah medical school,<span style="float:right;">December 2019</span>
+</div>
+<div style="text-align:left;"> 
+  Weizmann Institute, Dept. of Neurobiology,<span style="float:right;">December 2019</span>
+</div>
 Janelia HHMI, Junior Scientist Workshop on Mechanistic Cognitive Neuroscience, October 2019
 BU, Neurophotonics Symposium, January 2019
 BU, Junior Faculty Meeting, December 2018
