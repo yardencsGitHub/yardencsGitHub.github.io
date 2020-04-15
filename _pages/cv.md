@@ -59,12 +59,42 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Papers in preparation
+-----
+**Cohen Y**, Cvitanovic P, Solla SA "A novel approach to the empirical characterization of learning
+in biological systems".
+
+**Cohen Y**, Nicholson DA, and Gardner TJ "Segmentation and annotation of birdsong with a hybrid
+recurrent-convolutional neural network".
+
+Leman DP, Chen IA, Yen, WW, **Cohen Y**, Perkins, LN, Liberti III WA, Kilic K, Cruz-Martin A,
+Gardner TJ, Otchy TM, Davison IG. "Large-scale cellular-resolution imaging of neural activity in
+freely behaving mice".
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+ 
+List of invited talks
+-----
+<div style="text-align: left"> Technion, Rappaport medical school, Dept. of Neuroscience,</div> <div style="text-align: right">December 2019</div>
+Hebrew University, Haddassah medical school, December 2019
+Weizmann Institute, Dept. of Neurobiology, December 2019
+Janelia HHMI, Junior Scientist Workshop on Mechanistic Cognitive Neuroscience, October 2019
+BU, Neurophotonics Symposium, January 2019
+BU, Junior Faculty Meeting, December 2018
+UC Berkeley, invited seminar, December 2018
+Birdsong, SFN satellite meeting November 2018
+NYU, Center for Neural Science April 2015
+Columbia University, Dept. of Biological Sciences April 2015
+Harvard University, Dept. of Physics April 2015
+Boston University, Dept. of Biology April 2015
+UC Berkeley , Dept. of Molecular and Cell Biology April 2015
+UCSD, Dept. of Physics April 2015
+Minna James Heinemann workshop, Weizmann Institute of Science January 2015
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -81,8 +111,7 @@ Honors and Awards
 Service and leadership
 ======
 **Popular lectures for school children (*2018*)**
-Overview: My presentations in a local elementary school, \What can we learn from songbirds?" aim to
-communicate the passion for science and describe some of the questions we have and how songbirds can
+Overview: [My presentations](/talks/2018-11-20-talk-3) in a local elementary school, "What can we learn from songbirds?" aim to communicate the passion for science and describe some of the questions we have and how songbirds can
 help us answer them in the lab.
 
 **Ad Hoc Referee:** journal of behavioral processes (*2017-present*)
