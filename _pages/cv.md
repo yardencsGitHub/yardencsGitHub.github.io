@@ -88,19 +88,42 @@ List of invited talks
 <div style="text-align:left;"> 
   Weizmann Institute, Dept. of Neurobiology,<span style="float:right;">December 2019</span>
 </div>
-Janelia HHMI, Junior Scientist Workshop on Mechanistic Cognitive Neuroscience, October 2019
-BU, Neurophotonics Symposium, January 2019
-BU, Junior Faculty Meeting, December 2018
-UC Berkeley, invited seminar, December 2018
-Birdsong, SFN satellite meeting November 2018
-NYU, Center for Neural Science April 2015
-Columbia University, Dept. of Biological Sciences April 2015
-Harvard University, Dept. of Physics April 2015
-Boston University, Dept. of Biology April 2015
-UC Berkeley , Dept. of Molecular and Cell Biology April 2015
-UCSD, Dept. of Physics April 2015
-Minna James Heinemann workshop, Weizmann Institute of Science January 2015
-
+<div style="text-align:left;"> 
+  Janelia HHMI, Junior Scientist Workshop on Mechanistic Cognitive Neuroscience,<span style="float:right;">October 2019</span>
+</div>
+<div style="text-align:left;"> 
+  BU, Neurophotonics Symposium,<span style="float:right;">January 2019</span>
+</div>
+<div style="text-align:left;"> 
+  BU, Junior Faculty Meeting,<span style="float:right;">December 2018</span>
+</div>
+<div style="text-align:left;"> 
+  UC Berkeley, invited seminar,<span style="float:right;">December 2018</span>
+</div>
+<div style="text-align:left;"> 
+  Birdsong, SFN satellite meeting,<span style="float:right;">November 2018</span>
+</div>
+<div style="text-align:left;"> 
+  NYU, Center for Neural Science,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  Columbia University, Dept. of Biological Sciences,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  Harvard University, Dept. of Physics,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  Boston University, Dept. of Biology,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  UC Berkeley , Dept. of Molecular and Cell Biology,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  UCSD, Dept. of Physics,<span style="float:right;">April 2015</span>
+</div>
+<div style="text-align:left;"> 
+  Minna James Heinemann workshop, Weizmann Institute of Science,<span style="float:right;">January 2015</span>
+</div>
 Teaching
 ======
   <ul>{% for post in site.teaching %}
