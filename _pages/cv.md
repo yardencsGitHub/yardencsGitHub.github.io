@@ -22,7 +22,7 @@ Education
 
 Research Experience:
 ======
-### Postdoctoral Associate  (*January 2016 to Present*)
+### Postdoctoral Associate  <span style="float:right;">January 2016 to Present</span>
 **Gardner Lab, Boston University Department of Biology.**
 Research Summary: (1) Adapted calcium imaging techniques to awake behaving canaries and studied neural
 coding of correlated song sequences. The key finding was that hidden network states support behavior transition
@@ -30,7 +30,7 @@ syntax rules with long-range history dependence. (2) Deep neural network algorit
 the state-of-the-art method for birdsong annotation. (3) Collaborated with the Cogan lab from UT Dallas to
 develop scalable ultramicroelectrode arrays for neural stimulation and recording.
 
-### Graduate Student (October 2007 to January 2016)
+### Graduate Student <span style="float:right;">October 2007 to January 2016</span>
 **Paz and Schneidman labs, Weizmann Institute of Science Department of Neurobiology.**
 Research Summary: Modeled human classification learning. Found that visual feature-based reinforcement
 learning models can capture, predict and be used to in
@@ -40,15 +40,15 @@ of neural activity on visual features to discover different learning dynamics in
 
 Work Experience
 ======
-* Project Manager (*October 2005 - December 2006*)
+* Project Manager <span style="float:right;">October 2005 - December 2006</span>
   * Israeli Ministry of Defence (M.O.D).
   * Electronics, communication, management.
 
-* Electronics Engineer (*February 2005 - October 2005*)
+* Electronics Engineer <span style="float:right;">February 2005 - October 2005</span>
   * Israeli Ministry of Defence (M.O.D).
   * Electronic circuit development.
  
-* Head of acoustics research group (*April 2002 - February 2005*)
+* Head of acoustics research group <span style="float:right;">April 2002 - February 2005</span>
   * Israeli Ministry of Defence (M.O.D).
   * Measurements and simulation of wave propagation, psychoacoustics, electro-acoustics, research
 and development.
@@ -129,15 +129,15 @@ Teaching
   
 Honors and Awards
 ======
-* Dr. Oboh-Weilke Postdoctoral Travel Award (*2019*)
-* Nvidia GPU Grant (*2017*)
-* Neurizons2013 2nd place poster prize (*2013*)
-* Member of the honors program of the faculty of science, The Hebrew University (*1997-2000*)
+* Dr. Oboh-Weilke Postdoctoral Travel Award <span style="float:right;">2019</span>
+* Nvidia GPU Grant <span style="float:right;">2017</span>
+* Neurizons2013 2nd place poster prize <span style="float:right;">2013</span>
+* Member of the honors program of the faculty of science, The Hebrew University <span style="float:right;">1997-2000</span>
 
 Service and leadership
 ======
-**Popular lectures for school children (*2018*)**
+**Popular lectures for school children** <span style="float:right;">2018</span>
 Overview: [My presentations](/talks/2018-11-20-talk-3) in a local elementary school, "What can we learn from songbirds?" aim to communicate the passion for science and describe some of the questions we have and how songbirds can
 help us answer them in the lab.
 
-**Ad Hoc Referee:** journal of behavioral processes (*2017-present*)
+**Ad Hoc Referee:** journal of behavioral processes <span style="float:right;">2017-present</span>
