@@ -8,6 +8,7 @@ date: 2019-07-08
 location: "Boston, USA"
 ---
 
-Lecturer; Taught basic concepts in photonics to graduate trainees in a lecture and a hands-on lab.
+Taught basic concepts in photonics to graduate trainees in a lecture and a hands-on lab.
+This segment is part of the [boot camp](http://www.bu.edu/neurophotonics-nrt/trainee-info/boot-camp/) training of students in the [Neurophotonics Center](https://www.bu.edu/neurophotonics-nrt/) at Boston University.
 
 [Slides](/files/Intro to Photonics 2019_Yarden.pdf)
