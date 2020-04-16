@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hi! I'm Yarden. I grew up in a kibbutz by the Jordan river that gave me my name. In this small community, steeped in pastoral countryside and a social experiment of sorts, nature was near, beautiful, and fascinating. Being a scientist, I believe, is my way of retaining this sense of wonder while advancing society by creating knowledge and teaching.    
+<p>Hi! I'm Yarden. I grew up in a kibbutz by the Jordan river that gave me my name. In this small community, steeped in pastoral countryside and a social experiment of sorts, nature was near, beautiful, and fascinating. Being a scientist, I believe, is my way of retaining this sense of wonder while advancing society by creating knowledge and teaching.</p>    
 
 Back in the day, I studied physics and mathematics at the Hebrew university and experienced, first-hand, a range of technologies used by the Israeli Defense Forces as part of the <a href="https://www.wikiwand.com/en/Talpiot_program">Talpiot program</a>. In the 7-year stint following graduation I took positions in acoustics research, electronic engineering, and project management. 
 
