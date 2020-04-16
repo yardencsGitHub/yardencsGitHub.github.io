@@ -15,11 +15,25 @@ author_profile: true
 <p>Another tenant I hold dear is the role of time as a key variable ("well duh" says the ethologist). Often, neural systems are treated as (pseudo) static - frozen computing machines. Such approach, in effect, flattens the dynamic nature of the brain and makes many processes, different learning algorithms for example, become indiscernible. In all my experiments, the time and sequence components of behavior serve as strong constraints to potential theories that could explain my results.</p> 
 </div>
 
+## Canaries - Excellent singers and fantastic models for investigating neural computations
 
-Project 1
+### Working memory in canary song syntax
+
+## Primates - Excellent learners of abstract concepts
+
+### Models of human visual-feature-based classification learning
+
+### Neural correlates of classification learning in monkeys 
+
+## Artifical neural network - Excellent toy models
+
+
+Tools
 =====
+I enojoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is, in some sense, an easier challenge than research itself because these are usually technical and not feasibility issues. Still, it is fun and very rewarding to create solutions that advance my work and contribute to the work of others. 
 
-Project 2
-=====
+### TweetyNet: A machine learning tool for annotating complex song
 
+### Next generation ultramicroelectrodes
 
+### Miniaturized fluorescence microscopes
