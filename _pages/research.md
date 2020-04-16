@@ -38,7 +38,7 @@ Your browser does not support the video tag.</video>
 
 Tools
 =====
-I enojoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is, in some sense, an easier challenge than research itself because these are usually technical and not feasibility issues. Still, it is fun and very rewarding to create solutions that advance my work and contribute to the work of others. 
+I enjoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is, in some sense, an easier challenge than research itself because these are usually technical and not feasibility issues. Still, it is fun and very rewarding to create solutions that advance my work and contribute to the work of others. 
 
 ### TweetyNet - A machine learning tool for annotating complex song
 
