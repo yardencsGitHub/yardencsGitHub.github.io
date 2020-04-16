@@ -19,6 +19,14 @@ author_profile: true
 
 ### Working memory in canary song syntax
 
+
+<img src="/files/pics/Canary_miniscope.png" align="right" width="125px" vspace="5px" hspace="10px" />
+
+
+<video width="360" height="480" align="right" controls> 
+  <source src="/files/CanaryVid2.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>
+
 ## Primates - Excellent learners of abstract concepts
 
 ### Models of human visual-feature-based classification learning
