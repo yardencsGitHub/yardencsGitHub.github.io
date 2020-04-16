@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify">
 Hi! I'm Yarden. I grew up in a kibbutz by the Jordan river that gave me my name. In this small community, steeped in pastoral countryside and a social experiment of sorts, nature was near, beautiful, and fascinating. Being a scientist, I believe, is my way of retaining this sense of wonder while advancing society by creating knowledge and teaching.    
 
 Back in the day, I studied physics and mathematics at the Hebrew university and experienced, first-hand, a range of technologies used by the Israeli Defense Forces as part of the [Talpiot program](https://www.wikiwand.com/en/Talpiot_program). In the 7-year stint following graduation I took positions in acoustics research, electronic engineering, and project management. 
@@ -15,7 +15,7 @@ Back in the day, I studied physics and mathematics at the Hebrew university and 
 In my work I studied speech intelligibility and was amazed by the ability of the human brain to process signals buried deep in noise. I also had the opportunity to fly aerobatic jets - driving my own abilities to process parallel streams of information to their limit while maneuvering the aircraft. These experiences shaped my thinking about the brain as a physical system - a living, conscious, organ capable of processing information, storing memories, and driving behavior. I decided to pursue this new interest (and passion) as a career.
 
 Soon after, I was in the [Weizmann institute](www.weizmann.ac.il) - first in 'Physics bootcamp' and then as a doctoral candidate in neurobiology. In my dissertation work I investigated step-by-step learning sequences in human and non-human primates using modeling to predict behavior and electrophysiology to track neural dynamics in learning.
-
+</div>
 
 Site is under construction
 =======
