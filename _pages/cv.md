@@ -16,7 +16,7 @@ Motor Sequencing & Learning, Dynamical Systems, Electrophysiology, Neurophotonic
 
 Education
 ======
-* Ph.D in Neurobiology, Weizmann Institute of Science, 2016 (*advisors: Prof. [Rony Paz](https://www.weizmann.ac.il/neurobiology/labs/rony/) amd Elad Schneidman*)
+* Ph.D in Neurobiology, Weizmann Institute of Science, 2016 (*advisors: Prof. [Rony Paz](https://www.weizmann.ac.il/neurobiology/labs/rony/) and Elad Schneidman*)
 * M.Sc. in Physics, Weizmann Institute of Science, 2010 (*advisor: Prof. [Elad Schneidman](https://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html)*)
 * B.Sc. in Physics and Mathematics, Hebrew University, 2000
 
