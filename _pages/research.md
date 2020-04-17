@@ -16,16 +16,16 @@ author_profile: true
 </div>
 
 ## Canaries - Excellent singers and fantastic models for investigating neural computations
-
+Canaries, like starlings, nightingales, and blackbirds (to name a few), are virtuosos capable of producing minute-long songs composed of many different individual notes. These notes, often called syllables, are sung in variable sequences that almost never repeat exactly and create an impressive repertoire. Such behavioral richness allows investigating the mechanisms responsible for producing complex behaviors but also creates challenges in annotating the different syllables and in statistical analyses.       
 ### Working memory in canary song syntax
-
+Canary songs are comprised of repeated syllables, called phrases. The ordering of phrases, like human language, follows long-range syntax rules, spanning several seconds
 
 <img src="/files/pics/Canary_miniscope.png" align="right" width="125px" vspace="5px" hspace="10px" />
 
 
-<video width="360" height="480" align="right" controls> 
+<div style="float:right; margin: 5px 0px 5px 25px"><video width="360" height="480" controls> 
   <source src="/files/CanaryVid2.mp4" type="video/mp4">
-Your browser does not support the video tag.</video>
+Your browser does not support the video tag.</video></div>
 
 ## Primates - Excellent learners of abstract concepts
 
