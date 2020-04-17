@@ -15,7 +15,7 @@ author_profile: true
 <p>Another tenent I hold dear is the role of time as a key variable ("well duh" says the ethologist). Often, neural systems are treated as (pseudo) static - frozen computing machines. Such approach, in effect, flattens the dynamic nature of the brain and makes many processes, different learning algorithms for example, become indiscriminable. In all my experiments, the time and sequence components of behavior serve as strong constraints on potential theories that could explain my results.</p> 
 </div>
 
-## Canaries - Excellent singers and fantastic models for investigating neural computations
+## Canaries - Excellent singers and fantastic models for investigating neural mechanisms
 <div style="float:left; margin: 5px 25px 5px 5px"><video width="450" height="322" controls> 
   <source src="/files/pics/CanaryAviary1.mp4" type="video/mp4">
 Your browser does not support the video tag.</video></div>
