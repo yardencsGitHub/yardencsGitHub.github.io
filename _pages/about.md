@@ -14,7 +14,7 @@ redirect_from:
 
 In my work I studied speech intelligibility and was amazed by the ability of the human brain to process signals buried deep in noise. I also had the opportunity to fly aerobatic jets - driving my own abilities to process parallel streams of information to their limit while maneuvering the aircraft. These experiences shaped my thinking about the brain as a physical system - a living, conscious, organ capable of processing information, storing memories, and driving behavior. I decided to pursue this new interest (and passion) as a career.
 
-Soon after, I was in the <a href="https://www.weizmann.ac.il/pages/">Weizmann institute</a> - first in 'Physics bootcamp' and then as a doctoral candidate in neurobiology. In my dissertation work I investigated step-by-step learning sequences in human and non-human primates using modeling to predict behavior and electrophysiology to track neural dynamics in learning.</p>
+Soon after, I was at the <a href="https://www.weizmann.ac.il/pages/">Weizmann institute</a> - first in 'Physics bootcamp' and then as a doctoral candidate in neurobiology. In my dissertation work I investigated step-by-step learning sequences in human and non-human primates using modeling to predict behavior and electrophysiology to track neural dynamics in learning.</p>
 </div>
 
 Site is under construction
