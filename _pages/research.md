@@ -10,7 +10,7 @@ author_profile: true
 <div style="text-align: justify">
 <p>My research in systems neuroscience aims to understand how neurons cooperate in a massively interconnected network to generate high-level cognitive functions. Keeping the mind-body problem in mind, I believe that an answer to this question entails creating a mechanistic understanding of how from unreliable spiking neurons, connected with plastic synapses, emerge stable structures that support reliable functionality.</p>
   
-<p>To dissect these basic mechanisms, my main approach is to use rich behavior repertoires to gain access to and create simpler representations of key elements in activity of neuronal ensembles. This may seem paradoxical but, put simply, in taking a complex data set or problem and projecting it onto many dimensions it is often much simpler to untangle separate components and identify relevant patterns. In fact, this principle underlies the success of deep artificial neural network algorithms and leading hypotheses about the function of the neocortex.</p>
+<p>To dissect these basic mechanisms, my main approach is to use rich behavior repertoires to gain access to and create simpler representations of key elements in activity of neuronal ensembles. Purposely-using complex behavior may seem paradoxical but, put simply, in taking an elaborate data set or problem and projecting it onto many dimensions it is often much simpler to untangle separate components and identify relevant patterns. In fact, this principle underlies the success of deep artificial neural network algorithms and leading hypotheses about the function of the neocortex.</p>
 
 <p>Another tenent I hold dear is the role of time as a key variable ("well duh" says the ethologist). Often, neural systems are treated as (pseudo) static - frozen computing machines. Such approach, in effect, flattens the dynamic nature of the brain and makes many processes, different learning algorithms for example, become indiscriminable. In all my experiments, the time and sequence components of behavior serve as strong constraints on potential theories that could explain my results.</p> 
 </div>
@@ -25,8 +25,10 @@ Your browser does not support the video tag.</video></div>
 <br/>
 ### Working memory in canary song syntax
 <img src="/files/pics/Canary_miniscope.png" align="right" width="140px" vspace="5px" hspace="10px" />
-<p style="text-align: justify">Canary songs are comprised of repeated syllables, called phrases, that typically last one second. The ordering of phrases, like human language, follows long-range syntax rules [1], spanning several seconds. Specifically, transitions following about 15% of phrase types depend on the preceding sequence of 2-5 phrases. This hierarchical structure develops separately from syllbles [2] and provides two important advantages; First, the set of phrase sequences is statistically-simpler compared to the set of syllable sequences. Second, The long-range correlations allow separating ongoing neural activity in premotor circuits, locked to currently-sung syllables, from variability in upstream transitions. This time and sequence separation provides a powerful tool for studying neural coding without (or with little) ambiguity.</p>
-By choricaly-implanting light-weight fluorescence microscopes I could observe 
+<p style="text-align: justify">The brain executes precise motor elements, gestures or vocal syllables, in variable sequences. This cognitive ability allows creativity and evolutionary fitness and, when damaged by disease or aging, leads to marked motor sequence generation and comprehension dysfunction. Canary songs are comprised of repeated syllables, called phrases, that typically last one second. The ordering of phrases, like human language, follows long-range syntax rules [1], spanning several seconds. Specifically, transitions following about 15% of phrase types depend on the preceding sequence of 2-5 phrases.</p>
+<p style="text-align: justify">Using choricaly-implanted <a href="http://waliii.github.io/">light-weight fluorescence microscopes</a> in freely-behaving canaries I observed ensemble neural activity in premotor circuits as the birds explored the variety of songs in their repertoire. This allowed 
+  
+ </p>
 
 
 
@@ -41,7 +43,7 @@ Your browser does not support the video tag.</video></div>
 
 ### Neural correlates of classification learning in monkeys 
 
-## Artifical neural network - Excellent toy models
+## Artifical neural networks - Excellent toy models
 
 
 Tools
