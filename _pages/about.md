@@ -20,7 +20,7 @@ In my work I studied speech intelligibility and was amazed by the ability of the
 
 Research interests
 ======
-<img src="/files/pics/braincartoon.png" align="right" width="200px" vspace="5px" hspace="10px" />
+<img style="float:right ;padding: 15px 0px 15px 25px" src="/files/pics/braincartoon.png"/>
 <p style="text-align: justify">
 The question of how neurons cooperate in a massively interconnected network to generate high-level cognitive functions is one of the most intriguing and important problems in today’s biological and medical sciences. An answer to this question entails creating a mechanistic understanding of how from unreliable spiking neurons, connected with plastic synapses, emerge stable brain structures that support reliable functionality. I want to understand how a complex biological system, like the brain, processes sensory and internally generated information to guide behavior and how development and experience shape neural circuits and reorganize their function.</p>
 
