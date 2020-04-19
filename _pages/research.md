@@ -25,20 +25,11 @@ Your browser does not support the video tag.</video></div>
 <br/>
 ### Working memory in canary song syntax
 <img src="/files/pics/Canary_miniscope.png" align="right" width="140px" vspace="5px" hspace="10px" />
-<p style="text-align: justify">The brain executes precise motor elements, gestures or vocal syllables, in variable sequences. This cognitive ability allows creativity and evolutionary fitness and, when damaged by disease or aging, leads to marked motor sequence generation and comprehension dysfunction. A key property of motor sequences like language, dance, and tool-use are high order syntax rules - element-to-element transitions depending on their long-range context in the sequence. To create such syntax rules the memory of the long-range context needs to impact the premotor neural activity.</br>  
+<p style="text-align: justify">The brain executes precise motor elements, gestures or vocal syllables, in variable sequences. This cognitive ability allows creativity and evolutionary fitness and, when damaged by disease or aging, leads to marked motor sequence generation and comprehension dysfunction. A key property of motor sequences like language, dance, and tool-use are long-range syntax rules - element-to-element transitions depending on the context of multiple preceding elements across  seconds, or even minutes, of behavior. To create such syntax rules the memory of the long-range context needs to impact the premotor neural activity.</p>  
   
-Canary songs are comprised of repeated syllables, called phrases, that typically last one second. The ordering of phrases, like human language, follows long-range syntax rules [1], spanning several seconds. Specifically, transitions following about 15% of phrase types depend on the preceding sequence of 2-5 phrases.</p>
-
-<p style="text-align: justify">Using choricaly-implanted <a href="http://waliii.github.io/">light-weight fluorescence microscopes</a> in freely-behaving canaries I observed ensemble neural activity in premotor circuits as the birds explored the variety of songs in their repertoire. This allowed 
-  
+<p style="text-align: justify">Canaries are an excellent model for investigating the neural mechanisms supporting high order syntax. Canary songs are comprised of repeated syllables, called phrases, that typically last one second. The ordering of phrases, like human language, follows long-range syntax rules [1], spanning several seconds. My [latest work](/publication/2020-05-01-canary-paper-nature) exposed encoding of long-range context in the premotor circuits of freely singing canaries. This encoding occured preferentially in phrase transitions depending on long-range song context. This form of working memory could support the complex syntax rules in canary song - demonstrating, for the first time, a connection between neural activity and behavior in songbirds that shares time and sequence properties resembling human behavior.   
  </p>
 
-
-
-
-<div style="float:right; margin: 5px 0px 5px 25px"><video width="360" height="480" controls> 
-  <source src="/files/CanaryVid2.mp4" type="video/mp4">
-Your browser does not support the video tag.</video></div>
 
 ## Primates - Excellent learners of abstract concepts
 
