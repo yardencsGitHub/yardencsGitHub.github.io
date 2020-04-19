@@ -32,7 +32,7 @@ Your browser does not support the video tag.</video></div>
 
 
 ## Primates - Excellent learners of abstract concepts
-<img src="/files/pics/princess-bride.jpg" align="right" width="140px" vspace="5px" hspace="10px" />
+<img src="/files/pics/princess-bride.jpg" align="right" width="288px" vspace="5px" hspace="10px" />
 Primates, humans for example, often need to choose a course of action in a complicated situation. For example, one may be forced to choose a goblet from which to drink taking into account multiple cues (like the source of Iocane powder and the fact that you oponent bested both your giant and your spaniard).   
 ### Models of human visual-feature-based classification learning
 
