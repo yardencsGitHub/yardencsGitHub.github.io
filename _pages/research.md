@@ -34,7 +34,7 @@ Your browser does not support the video tag.</video></div>
 ## Primates - Excellent learners of abstract concepts
 <img src="/files/pics/princess-bride.jpg" width="250" style="float:left ;padding: 5px 25px 5px 0px"/>
 <p style="text-align: justify">
-Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that you oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex rule-based behaviors - situations when a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations.    
+Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that you oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations when a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables.
 </p>
 ### Models of human visual-feature-based classification learning
 
