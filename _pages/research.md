@@ -48,3 +48,7 @@ I enjoy developing hardware and software tools. Neuroscience research is, almost
 ### Next generation ultramicroelectrodes
 
 ### Miniaturized fluorescence microscopes
+
+**References**:
+[1]	Markowitz, J. E., Ivie, E., Kligler, L. & Gardner, T. J. Long-range Order in Canary Song. PLOS Comput Biol 9, e1003052 (2013).
+
