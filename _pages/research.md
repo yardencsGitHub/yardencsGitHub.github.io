@@ -23,7 +23,7 @@ Your browser does not support the video tag.</video></div>
 ---
 
 <br/>
-<img src="/files/pics/Canary_miniscope.png" align="right" width="160px" vspace="5px" hspace="10px" />
+<img src="/files/pics/Canary_miniscope.png" style="float:right ;padding: 0px 0px 10px 25px" width="160px"/>
 ### Working memory in canary song syntax
 <p style="text-align: justify">The brain executes precise motor elements, gestures or vocal syllables, in variable sequences. This cognitive ability allows creativity and evolutionary fitness and, when damaged by disease or aging, leads to marked motor sequence generation and comprehension dysfunction. A key property of motor sequences like language, dance, and tool-use are long-range syntax rules - element-to-element transitions depending on the context of multiple preceding elements across  seconds, or even minutes, of behavior. To create such syntax rules the memory of the long-range context needs to impact the premotor neural activity.</p>  
   
@@ -32,7 +32,7 @@ Your browser does not support the video tag.</video></div>
 
 
 ## Primates - Excellent learners of abstract concepts
-<img src="/files/pics/princess-bride.jpg" align="left" width="250px" vspace="5px" hspace="10px" />
+<img src="/files/pics/princess-bride.jpg" width="250" style="float:left ;padding: 5px 25px 5px 0px"/>
 <p style="text-align: justify">
 Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that you oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex rule-based behaviors - situations when a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations.    
 </p>
