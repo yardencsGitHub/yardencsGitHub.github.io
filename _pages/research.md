@@ -42,7 +42,7 @@ Primates, humans for example, often need to choose a course of action in complic
 ### Models of human visual-feature-based classification learning
 
 ### Neural correlates of classification learning in monkeys 
-<img src="/files/pics/MonkeyPlaying.png" width="250" style="float:left ;padding: 5px 25px 5px 0px"/>
+<img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
 ## Artifical neural networks - Excellent toy models
 
 
