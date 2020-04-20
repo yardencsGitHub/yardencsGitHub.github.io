@@ -37,9 +37,10 @@ Your browser does not support the video tag.</video></div>
 Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that your oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations where a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables.
 </p>
 --- 
-<br/>
-### Models of human visual-feature-based classification learning
 
+### Models of human visual-feature-based classification learning
+The task of labelling, or classifying, multicue patterns, as shown in the above example, is very common. But, the rules used for classifying a set of visual stimuli may frequently change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink).
+<img src="/files/pics/HumanLearning.png" width="500" align="center"/>
 ### Neural correlates of classification learning in monkeys 
 <img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
 ## Artifical neural networks - Excellent toy models
