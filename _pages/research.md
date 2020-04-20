@@ -39,8 +39,10 @@ Primates, humans for example, often need to choose a course of action in complic
 --- 
 
 ### Models of human visual-feature-based classification learning
-The task of labelling, or classifying, multicue patterns, as shown in the above example, is very common. But, the rules used for classifying a set of visual stimuli may frequently change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink).
+The task of labelling, or classifying, multicue patterns, as shown in the above example, is very common. But, the rules used for classifying a set of visual stimuli may frequently change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink). 
+<br/>
 <img src="/files/pics/HumanLearning.png" width="500" align="center"/>
+
 ### Neural correlates of classification learning in monkeys 
 <img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
 ## Artifical neural networks - Excellent toy models
