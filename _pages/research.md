@@ -61,5 +61,6 @@ I enjoy developing hardware and software tools. Neuroscience research is, almost
 
 **References**:
 [1]	Markowitz, J. E., Ivie, E., Kligler, L. & Gardner, T. J. (2013) Long-range Order in Canary Song. PLOS Comput Biol 9, e1003052.
+
 [2] Shepard RN, Hovland CI, Jenkins HM (1961) Learning and memorization of classifications. Psychol Monogr 75(13):1–42.
 
