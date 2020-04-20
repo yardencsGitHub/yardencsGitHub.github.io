@@ -41,7 +41,7 @@ Primates often need to choose a course of action in complicated situations. For 
 ### Models of human visual-feature-based classification learning
 <p style="text-align: justify">The task of labeling, or classifying, multicue patterns, as shown in the above example, is very common. The rules used for classifying a set of visual stimuli may change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink) and humans can quickly and advantageously adopt complex rule-based behaviors. But, even with N binary cues in each pattern the number of possible patterns is 2^N and the number of possible rules for classifying those patterns into 2 categories is 2^(2^N). Holding all those possible rules in memory is - inconceivable! - and still, humans can regularly and seemingly-effortlessly learn new rules, often using an impoverished sampling of the stimulus space.</p>
 <br/>
-<img src="/files/pics/HumanLearning.png" width="500" align="center"/>
+<img src="/files/pics/HumanLearning.png" width="500" align="center"/><br/>
 In a set of psychophysics experiments I tested human learning of abstract rules using multicue binary patterns. My work replicated the observation [2] that population average performance depends on the classification rule but revealed that individuals learning the same rule seeing the same step-by-step order of patterns had very different learning curves.   
 
 
