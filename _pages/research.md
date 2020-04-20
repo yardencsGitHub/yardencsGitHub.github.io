@@ -34,14 +34,16 @@ Your browser does not support the video tag.</video></div>
 ## Primates - Excellent learners of abstract concepts
 <img src="/files/pics/princess-bride.jpg" width="250" style="float:left ;padding: 5px 25px 5px 0px"/>
 <p style="text-align: justify">
-Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that your oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations where a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables.
+Primates often need to choose a course of action in complicated situations. For example, one may be forced to choose a wine goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that your oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations where a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables or by boolean expressions.
 </p>
 --- 
 
 ### Models of human visual-feature-based classification learning
-The task of labelling, or classifying, multicue patterns, as shown in the above example, is very common. But, the rules used for classifying a set of visual stimuli may frequently change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink). 
+<p style="text-align: justify">The task of labeling, or classifying, multicue patterns, as shown in the above example, is very common. The rules used for classifying a set of visual stimuli may change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink) and we can quickly and advantageously adopt complex rule-based behaviors. But, even with N binary cues in each pattern the number of possible patterns is 2^N and the number of possible rules for classifying those patterns into 2 categories is 2^(2^N). Holding all those possible rules in memory is - inconceivable! - and still, humans can regularly and seemingly-effortlessly learn new rules, often using an impoverished sampling of the stimulus space.</p>
 <br/>
 <img src="/files/pics/HumanLearning.png" width="500" align="center"/>
+In a set of psychophysics experiments I tested human learning of abstract rules using multicue binary patterns. My work replicated the observation [2] that population average performance depends on the classification rule but revealed that individuals learning the same rule seeing the same step-by-step order of patterns had very different learning curves.   
+
 
 ### Neural correlates of classification learning in monkeys 
 <img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
