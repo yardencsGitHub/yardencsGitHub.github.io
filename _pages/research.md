@@ -34,16 +34,22 @@ Your browser does not support the video tag.</video></div>
 ## Primates - Excellent learners of abstract concepts
 <img src="/files/pics/princess-bride.jpg" width="250" style="float:left ;padding: 5px 25px 5px 0px"/>
 <p style="text-align: justify">
-Primates, humans for example, often need to choose a course of action in complicated situations. For example, one may be forced to choose a goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that your oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations where a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables.
+Primates often need to choose a course of action in complicated situations. For example, one may be forced to choose a wine goblet from which to drink and base this choice on multiple cues like the source of Iocane powder and the fact that your oponent bested both your giant and your spaniard. This commonplace scenario is an example of complex concept-based or rule-based behaviors - situations where a an action or a label is assigned to a multi-cue pattern based on a function of individual cues and their combinations. If both the labels and the cues are binary then deterministic concepts can be described by truth tables or by boolean expressions.
 </p>
 --- 
-<br/>
+
 ### Models of human visual-feature-based classification learning
+<p style="text-align: justify">The task of labeling, or classifying, multicue patterns, as shown in the above example, is very common. The rules used for classifying a set of visual stimuli may change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink) and humans can quickly and advantageously adopt complex rule-based behaviors. But, even with N binary cues in each pattern the number of possible patterns is 2^N and the number of possible rules for classifying those patterns into 2 categories is 2^(2^N). Holding all those possible rules in memory is - inconceivable! - and still, humans can regularly and seemingly-effortlessly learn new rules, often using an impoverished sampling of the stimulus space.</p>
+<br/>
+<img src="/files/pics/HumanDynamics.png" width="500" align="middle"/><br/>
+<p style="text-align: justify"><a href="/publication/2013-01-08-cohen-schneidman-pnas">My work</a> in human psychophysics replicated the observation [2] that population average performance depends on the classification rule and revealed that individuals learning the same rule can have very different learning curves despite seeing the same step-by-step order of patterns. To capture this individuality, I modeled the subjects' belief about the rule as a probabilistic classifier based on visual features of the patterns (A). To describe the learning dynamics I used a simple reinforcement-learning step that shifts that belief (B). This framework captured individual learning behavior surprisingly-well and reflected the important role of subjects’ priors. To "cross validate" the fit to individual subjects I showed that these models predict future individual answers to a high degree of accuracy and can be used to build personally-optimized teaching sessions and boost learning.
+</p>
 
 ### Neural correlates of classification learning in monkeys 
 <img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
-## Artifical neural networks - Excellent toy models
 
+## Artifical neural networks - Excellent toy models
+<img src="/files/pics/NeuronModels.png" width="500" style="float:right ;padding: 5px 0px 5px 25px"/>
 
 Tools
 =====
@@ -55,5 +61,7 @@ I enjoy developing hardware and software tools. Neuroscience research is, almost
 ### Miniaturized fluorescence microscopes
 
 **References**:
-[1]	Markowitz, J. E., Ivie, E., Kligler, L. & Gardner, T. J. Long-range Order in Canary Song. PLOS Comput Biol 9, e1003052 (2013).
+[1]	Markowitz, J. E., Ivie, E., Kligler, L. & Gardner, T. J. (2013) Long-range Order in Canary Song. PLOS Comput Biol 9, e1003052.
+
+[2] Shepard RN, Hovland CI, Jenkins HM (1961) Learning and memorization of classifications. Psychol Monogr 75(13):1–42.
 
