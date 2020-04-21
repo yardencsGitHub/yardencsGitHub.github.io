@@ -39,14 +39,20 @@ Primates often need to choose a course of action in complicated situations. For 
 --- 
 
 ### Models of human visual-feature-based classification learning
-<p style="text-align: justify">The task of labeling, or classifying, multicue patterns, as shown in the above example, is very common. The rules used for classifying a set of visual stimuli may change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink) and humans can quickly and advantageously adopt complex rule-based behaviors. But, even with N binary cues in each pattern the number of possible patterns is 2^N and the number of possible rules for classifying those patterns into 2 categories is 2^(2^N). Holding all those possible rules in memory is - inconceivable! - and still, humans can regularly and seemingly-effortlessly learn new rules, often using an impoverished sampling of the stimulus space.</p>
+<p style="text-align: justify">The task of labeling, or classifying, multicue patterns, as shown in the above example, is very common. The rules used for classifying a set of visual stimuli may change (e.g. in other occasions the cheese and the bread are more important cues for choosing which wine to drink) and we can quickly and advantageously adopt complex rule-based behaviors. But, even with N binary cues in each pattern the number of possible patterns is 2^N and the number of possible rules for classifying those patterns into 2 categories is 2^(2^N). Holding all those possible rules in memory is - inconceivable! - and still, we regularly and seemingly-effortlessly learn new rules, often using an impoverished sampling of the stimulus space. The question of how we do it and what simplfying assumption we make is interesting both psychophysically and clinically </p>
 <br/>
 <img src="/files/pics/HumanDynamics.png" width="500" align="middle"/><br/>
 <p style="text-align: justify"><a href="/publication/2013-01-08-cohen-schneidman-pnas">My work</a> in human psychophysics replicated the observation [2] that population average performance depends on the classification rule and revealed that individuals learning the same rule can have very different learning curves despite seeing the same step-by-step order of patterns. To capture this individuality, I modeled the subjects' belief about the rule as a probabilistic classifier based on visual features of the patterns (A). To describe the learning dynamics I used a simple reinforcement-learning step that shifts that belief (B). This framework captured individual learning behavior surprisingly-well and reflected the important role of subjects’ priors. To "cross validate" the fit to individual subjects I showed that these models predict future individual answers to a high degree of accuracy and can be used to build personally-optimized teaching sessions and boost learning.
 </p>
 
 ### Neural correlates of classification learning in monkeys 
-<img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/>
+<img src="/files/pics/MonkeyPlaying.png" width="331" style="float:left ;padding: 5px 25px 5px 0px"/> 
+<p style="text-align: justify">Classification tasks in human studies are used to explore learning strategies in healthy subjects and in patients. The neurophysiology supporting classification of multicue patterns is commonly studied in monkeys - animal models capable of performing complex visually-guided tasks. But, in many of these animal studies it is impossible to observe how neurons form representations as learning progresses and gradually become relevant to the final classification being imposed. This is mainly because most experiments follow extensive training and the neural correlates relate more to the final representation, perception, and recognition, and less to the gradual learning process. The extensive training also prevents investigating many rules in the same animal - preventing generalized conclusions. </p>
+
+
+ 
+
+
 
 ## Artifical neural networks - Excellent toy models
 <img src="/files/pics/NeuronModels.png" width="500" style="float:right ;padding: 5px 0px 5px 25px"/>
