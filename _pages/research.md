@@ -64,7 +64,9 @@ Primates often need to choose a course of action in complicated situations. For 
 
 <img src="/files/pics/ErrorSurface.png" width="300" style="float:left ;padding: 5px 25px 5px 0px"/>
 <p style="text-align: justify">Conceptual illustration of perturbation in a nonlinear system. Perturbations are akin to kicking the ball, which represents the fixed point in steady-state at the origin of the error manifold, along the white arrows. The learning response, represented by the red arrows, depends on both the direction and magnitude of the perturbation and can be, like the linear case, simply contracting (i) or also rotating (ii,iii).</p>
+---
 <br/>
+
 Tools
 =====
 I enjoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is fun and very rewarding because they immediately advance my work and contribute to the work of others. 
