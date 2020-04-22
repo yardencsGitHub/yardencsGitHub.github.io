@@ -63,7 +63,7 @@ Primates often need to choose a course of action in complicated situations. For 
 <p style="text-align: justify">Movement control ties brain activity to measurable external actions in real time, providing a useful tool for both neuroscientists interested in the emergence of stable behavior, and biomedical engineers interested in the design of neural prosthesis and brain-machine interfaces. My work approached the question of motor skill learning by introducing artificial errors through a novel perturbative scheme, amenable to analytic examination in the regime close to the desired behavior. Numerical simulations then demonstrate how to probe the learning dynamics in both rate-based and spiking neural networks - revealing both properties of the learning algorithm and internal dynamics of the toy models. These findings stress the usefulness of analyzing responses to deliberately induced errors and the importance of properly designing such perturbation experiments. This approach provides a novel generic tool for monitoring the acquisition of motor skills. </p>
 
 <img src="/files/pics/ErrorSurface.png" width="300" style="float:left ;padding: 25px 25px 5px 0px"/>
-
+<br/>
 <p style="text-align: justify">Conceptual illustration of perturbation in a nonlinear system. Perturbations are akin to kicking the ball, which represents the fixed point in steady-state at the origin of the error manifold, along the white arrows. The learning response, represented by the red arrows, depends on both the direction and magnitude of the perturbation and can be, like the linear case, simply contracting (i) or also rotating (ii,iii).</p>
 ---
 <br/>
