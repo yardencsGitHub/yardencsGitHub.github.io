@@ -57,6 +57,7 @@ Primates often need to choose a course of action in complicated situations. For 
 
 ## Artifical neural networks - Excellent toy models
 <img src="/files/pics/NeuronModels.png" width="500" style="float:right ;padding: 5px 0px 5px 25px"/>
+<p style="text-align: justify">David Marr famously outlined a framework for analyzing neural mechanisms in three conceptually-different levels - A certain cognitive function at the top level is carried out by a mid-level algorithm that is physically-implemented by neural activity at the bottom-level. The field of Systems Neuroscience is substantially-shaped by Marr's framework. My experiments in primates and songbirds purposefully-uses time scale separation between ongoing neural activity and its behavior correlates to tease apart the physical and algorithm levels. A complementary approach to dissecting neural mechanisms uses simulated neural networks as toy models - In-silico animal models allowing access to all of Marr's levels. </p>          
 
 
 Tools
