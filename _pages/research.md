@@ -65,8 +65,8 @@ Primates often need to choose a course of action in complicated situations. For 
 <img src="/files/pics/ErrorSurface.png" width="300" style="float:left ;padding: 25px 25px 5px 0px"/>
 <br/>
 <p style="text-align: justify">Conceptual illustration of perturbation in a nonlinear system. Perturbations are akin to kicking the ball, which represents the fixed point in steady-state at the origin of the error manifold, along the white arrows. The learning response, represented by the red arrows, depends on both the direction and magnitude of the perturbation and can be, like the linear case, simply contracting (i) or also rotating (ii,iii).</p>
----
 <br/>
+---
 
 Tools
 =====
