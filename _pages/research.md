@@ -76,14 +76,17 @@ I enjoy developing hardware and software tools. Neuroscience research is, almost
 
 ### TweetyNet - A machine learning tool for annotating complex song
 <img src="/files/pics/TweetyNet.png" width="600" align="middle"/>
+
 <p style="text-align: justify">Manual song annotation is a highly time consuming task that impeded the advance of complex songbirds as models for neuroscience research. I developed a deep neural network architecture, <a href="https://github.com/yardencsGitHub/tweetynet">TweetyNet</a>, to automate this task. I used TweetyNet to process more than 5000 songs in my neural imaging work – a task that takes years if done manually. The access to thousands of songs yielded a tenfold precision increase in canary syntax analysis and allowed me to gather preliminary data for my current research aims. To test TweetyNet in other species, I initiated a collaboration with David Nicholson who studies Bengalese finches in Emory University. Compared to published state-of-the-art algorithms, TweetyNet performs twice as well using half the training data. TweetyNet is open-source and is being tested in vocalizations of additional songbirds, as well as mammals.</p>
   
 ### Next generation ultramicroelectrodes
 <img src="/files/pics/SiC.png" width="600" align="middle"/>
+
 <p style="text-align: justify">Foreign body response to indwelling cortical microelectrodes limits the reliability of neural stimulation and recording, particularly for extended chronic applications in behaving animals. The extent to which this response compromises the chronic stability of neural devices depends on many factors including the materials used in the electrode construction, the size, and geometry of the indwelling structure. In collaboration with Stuart Cogan’s lab at UT Dallas, <a hre="/publication/2018-01-08-JNE-deku">we developed</a> microelectrode arrays based on amorphous silicon carbide, providing chronic stability and employing semiconductor manufacturing processes to create arrays with small shank dimensions. My role in the project was to design electrode geometries, to test their electrochemical properties ex-vivo, and to test them by acute and chronic in-vivo recording in zebra finches.</p>
 
 ### Miniaturized fluorescence microscopes
 <img src="/files/pics/WideScope.png" width="600"/>
+
 In the last several years there is an explosion of new techniques for fluorescence imaging in freely-behaving animals. Our lab pioneers several such tools (e.g. <a href="https://github.com/gardner-lab/FinchScope/wiki">1 and 2 color FinchScopes</a>) used in small lab animals. Together with the <a href="https://www.bu.edu/biology/people/profiles/ian-davison/">Davison lab</a> and the optics guru <a href = "https://www.bu.edu/neurophotonics/2018/12/04/anderson-chen-the-man-behind-the-microscopes/">Anderson Chen</a> we develop a new miniscope design - the wide field miniscope (A). This light-weight (<4.5g) miniaturised fluorescence microscope is small enough to be used in mice offering optical access to areas up to ~3 X 4 mm - a substantially-increased imaging areas over current systems while maintaining single-cell resolution. The system is based on a 3D-printed housing and off-the-shelf components that are economical and readily modifiable for different experimental demands. My role in this project was to model the optical system (B) and help designing resolution tests comparing the model expectations to the performance of the constructed prototypes.  
 
 **References**:
