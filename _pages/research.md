@@ -61,11 +61,11 @@ Primates often need to choose a course of action in complicated situations. For 
 
 ### Developing an empirical characterization of motor learning in biological systems  
 <p style="text-align: justify">Movement control ties brain activity to measurable external actions in real time, providing a useful tool for both neuroscientists interested in the emergence of stable behavior, and biomedical engineers interested in the design of neural prosthesis and brain-machine interfaces. My work approached the question of motor skill learning by introducing artificial errors through a novel perturbative scheme, amenable to analytic examination in the regime close to the desired behavior. Numerical simulations then demonstrate how to probe the learning dynamics in both rate-based and spiking neural networks - revealing both properties of the learning algorithm and internal dynamics of the toy models. These findings stress the usefulness of analyzing responses to deliberately induced errors and the importance of properly designing such perturbation experiments. This approach provides a novel generic tool for monitoring the acquisition of motor skills. </p>
-
+<div>
 <img src="/files/pics/ErrorSurface.png" width="300" style="float:left ;padding: 25px 25px 5px 0px"/>
 <br/>
 <p style="text-align: justify">Conceptual illustration of perturbation in a nonlinear system. Perturbations are akin to kicking the ball, which represents the fixed point in steady-state at the origin of the error manifold, along the white arrows. The learning response, represented by the red arrows, depends on both the direction and magnitude of the perturbation and can be, like the linear case, simply contracting (i) or also rotating (ii,iii).</p>
-<br/>
+</div>
 ---
 
 Tools
@@ -73,7 +73,8 @@ Tools
 I enjoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is fun and very rewarding because they immediately advance my work and contribute to the work of others. 
 
 ### TweetyNet - A machine learning tool for annotating complex song
-
+<p style="text-align: justify">Manual song annotation is a highly time consuming task that impeded the advance of complex songbirds as models for neuroscience research. I developed a deep neural network architecture, <a href="https://github.com/yardencsGitHub/tweetynet">TweetyNet</a>, to automate this task. I used TweetyNet to process more than 5000 songs in my neural imaging work – a task that takes years if done manually. The access to thousands of songs yielded a tenfold precision increase in canary syntax analysis and allowed me to gather preliminary data for my current research aims. To test TweetyNet in other species, I initiated a collaboration with David Nicholson who studies Bengalese finches in Emory University. Compared to published state-of-the-art algorithms, TweetyNet performs twice as well using half the training data. TweetyNet is open-source and is being tested in vocalizations of additional songbirds, as well as mammals.</p>
+  
 ### Next generation ultramicroelectrodes
 
 ### Miniaturized fluorescence microscopes
