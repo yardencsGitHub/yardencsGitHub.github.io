@@ -73,11 +73,13 @@ Tools
 I enjoy developing hardware and software tools. Neuroscience research is, almost by its nature, interdisciplinary. Technical problems arising in research have, therefore, a unique interdisciplinary flavor. Creating solutions to these problems is fun and very rewarding because they immediately advance my work and contribute to the work of others. 
 
 ### TweetyNet - A machine learning tool for annotating complex song
+<img src="/files/pics/TweetyNet.png" width="600" align="middle"/>
 <p style="text-align: justify">Manual song annotation is a highly time consuming task that impeded the advance of complex songbirds as models for neuroscience research. I developed a deep neural network architecture, <a href="https://github.com/yardencsGitHub/tweetynet">TweetyNet</a>, to automate this task. I used TweetyNet to process more than 5000 songs in my neural imaging work – a task that takes years if done manually. The access to thousands of songs yielded a tenfold precision increase in canary syntax analysis and allowed me to gather preliminary data for my current research aims. To test TweetyNet in other species, I initiated a collaboration with David Nicholson who studies Bengalese finches in Emory University. Compared to published state-of-the-art algorithms, TweetyNet performs twice as well using half the training data. TweetyNet is open-source and is being tested in vocalizations of additional songbirds, as well as mammals.</p>
   
 ### Next generation ultramicroelectrodes
 
 ### Miniaturized fluorescence microscopes
+<img src="/files/pics/WideScope.png" width="600" align="middle"/>
 
 **References**:
 
