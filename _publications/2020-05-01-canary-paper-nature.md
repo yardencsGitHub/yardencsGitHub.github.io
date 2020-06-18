@@ -17,4 +17,4 @@ Video:  Activity in annotated ROIs aligned to song reveals a sequence-sensitive 
 
 [Download paper here](https://www.nature.com/articles/s41586-020-2397-3)
 
-Recommended citation: <b>Cohen Y</b>, Shen J, Semu D, Leman DP, Liberti WA III, Perkins N, and Gardner TJ (2020). "Hidden neural states underlie canary song syntax." <i>Nature</i>.
+Recommended citation: <b>Cohen Y</b>, Shen J, Semu D, Leman DP, Liberti WA III, Perkins N, and Gardner TJ (2020). "Hidden neural states underlie canary song syntax." <i>Nature</i> 1–6. doi:10.1038/s41586-020-2397-3.
