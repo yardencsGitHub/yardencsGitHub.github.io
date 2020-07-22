@@ -22,7 +22,12 @@ Education
 
 Research Experience:
 ======
-### Postdoctoral Associate  <span style="float:right;">January 2016 to Present</span>
+### Research Fellow  <span style="float:right;">May 2020 to present</span>
+**Williams Lab, Massachusetts General Hospital Department of Neurosurgery and Harvard Medical School.**
+<p style="text-align: justify">Research Summary: Use novel ultrahigh resolution microelectrode arrays to study the processes by which humans
+produce and comprehend language: project design, neuronal analysis and modeling, and manuscript writing.</p>
+
+### Postdoctoral Associate  <span style="float:right;">January 2016 to April 2020</span>
 **Gardner Lab, Boston University Department of Biology.**
 <p style="text-align: justify">Research Summary: (1) Adapted calcium imaging techniques to awake behaving canaries and studied neural coding of correlated song sequences. The key finding was that hidden network states support behavior transition syntax rules with long-range history dependence. (2) Deep neural network algorithms development - outperforming
 the state-of-the-art method for birdsong annotation. (3) Collaborated with the Cogan lab from UT Dallas to
@@ -137,3 +142,4 @@ Overview: [My presentations](/talks/2018-11-20-talk-3) in a local elementary sch
 help us answer them in the lab.
 
 **Ad Hoc Referee:** journal of behavioral processes <span style="float:right;">2017-present</span>
+**Ad Hoc Referee:** PLoS Computational Biology <span style="float:right;">2020-present</span>
