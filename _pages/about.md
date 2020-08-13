@@ -34,7 +34,7 @@ Teaching philosophy
 Henri Poincaré once described how after weeks of struggling with an exceptionally-hard mathematical
 problem the answer suddenly came to him while getting on a bus in his vacation. I believe that mastering
 concepts in exact sciences is an organic process that, like Poincaré’s example, involves creative thinking
-and implicit skill learning. As a teacher and mentor, my role it to facilitate this process using approaches
+and implicit skill learning. As a teacher and mentor, my role is to facilitate this process using approaches
 rooted in my understanding of the neurobiological basis of learning and memory. My goal is that all
 students will develop a mechanistic picture of the nervous system using the biological and mathematical
 languages by which we study and explain brain functions. My guiding principles in achieving this goal are
