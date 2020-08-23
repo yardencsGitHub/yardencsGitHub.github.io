@@ -1,7 +1,7 @@
 ---
 title: "Hidden neural states underlie canary song syntax"
 collection: publications
-permalink: /publication/2020-05-01-canary-paper-nature
+permalink: /publication/2020-09-05-canary-paper-ccn
 excerpt: 'We observe that the prior state or past syllable information is revealed in calcium activity during a fixed sequence of four canary phrases – showing that Ca2+ signals do not just reflect the current state or current transition. These properties, as well as the existence of neurons with calcium activity, locked to the same phrase type in a subset of phrase sequence histories, may be a signature of new forms of phrase-level hidden states in HVC that, with further investigation, will allow us to refine models of syntax control for species that sing complex songs.'
 date: 2018-09-05
 venue: 'CCNeuro'
