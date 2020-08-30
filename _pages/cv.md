@@ -120,7 +120,7 @@ List of invited talks
 <div style="text-align:left;"> 
   Minna James Heinemann workshop, Weizmann Institute of Science,<span style="float:right;">January 2015</span>
 </div>
-</br>
+
 
 Teaching
 ======
