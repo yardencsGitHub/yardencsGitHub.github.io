@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[pdf](/files/YardenCV.pdf)
-{% include base_path %}
 
+{% include base_path %}
+[pdf](/files/YardenCV.pdf)
 Research Interests:
 ======
 Systems Neuroscience, Neuroethology, Complex Systems, Reinforcement Learning, Tool development,
