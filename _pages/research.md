@@ -12,7 +12,7 @@ author_profile: true
   
 <p>To dissect these basic mechanisms, my main approach is to use rich behavior repertoires to gain access to and create simpler representations of key elements in activity of neuronal ensembles. Purposely-using complex behavior may seem paradoxical but, put simply, in taking an elaborate data set or problem and projecting it onto many dimensions it is often much simpler to untangle separate components and identify relevant patterns. In fact, this principle underlies the success of deep artificial neural network algorithms and leading hypotheses about the function of the neocortex.</p>
 
-<p>Another tenent I hold dear is the role of time as a key variable ("well duh" says the ethologist). Often, neural systems are treated as (pseudo) static - frozen computing machines. Such approach, in effect, flattens the dynamic nature of the brain and makes many processes, different learning algorithms for example, become indiscriminable. In all my experiments, the time and sequence components of behavior serve as strong constraints on potential theories that could explain my results.</p> 
+<p>Another tenet I hold dear is the role of time as a key variable ("well duh" says the ethologist). Often, neural systems are treated as (pseudo) static - frozen computing machines. Such approach, in effect, flattens the dynamic nature of the brain and makes many processes, different learning algorithms for example, become indiscriminable. In all my experiments, the time and sequence components of behavior serve as strong constraints on potential theories that could explain my results.</p> 
 </div>
 
 ## Canaries - Excellent singers and fantastic models for investigating neural mechanisms
