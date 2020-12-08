@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2019-02-28-cohen-schneidman-paz-biorxiv
 excerpt: 'To study neural dynamics during learning of new and diverse concepts, I trained two monkeys to perform the same classification task my human subjects carried and recorded neurons in the dACC and the Striatum as the animals learned eight novel classification rules. To examine dynamics, I developed a description of rules and neural representations of the visual stimuli that allowed tracking dynamics in geometrical terms - unifying sessions of learning different rules. This framework allowed teasing apart potential roles of the different brain areas and to predict future behavior from the neural state.'
 date: 2019-02-28
-venue: 'bioRxiv. Reviewed and revisions requested, Neuron'
+venue: 'bioRxiv. In-press, Neuron'
 paperurl: 'https://www.biorxiv.org/content/10.1101/561670v4.full.pdf'
-citation: '<b>Cohen Y</b>, Schneidman E, Paz R (2019) &quot;A geometric representation unveils learning dynamics in primate neurons&quot;. <i>bioRxiv</i>'
+citation: '<b>Cohen Y</b>, Schneidman E, Paz R (2019) &quot;A geometric representation unveils learning dynamics in primate neurons&quot;. <i>bioRxiv (In-press, Neuron)</i>'
 ---
 Primates can quickly and advantageously adopt complex rule-based behaviors. We studied
 acquisition of rule-based classification while recording single neurons in the dorsal-anteriorcingulate-cortex (dACC) and the Striatum. Monkeys performed trial-by-trial classification on a rich
