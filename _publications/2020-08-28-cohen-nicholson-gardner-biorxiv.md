@@ -6,7 +6,7 @@ excerpt: 'Many studies involving variable birdsong, like that of Bengalese finch
 date: 2020-02-28
 venue: 'bioRxiv (under review, eLife)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.08.28.272088v1.full.pdf'
-citation: '<b>Cohen Y</b>, Nicholson DA, Gardner TJ (2020) &quot;TweetyNet: A neural network that enables high-throughput, automated annotation of birdsong&quot;. <i>bioRxiv</i>'
+citation: '<b>Cohen Y</b>, Nicholson DA, Gardner TJ (2020) &quot;TweetyNet: A neural network that enables high-throughput, automated annotation of birdsong&quot;. <i>bioRxiv (under review, eLife)</i>'
 ---
 Songbirds provide an excellent model system for understanding sensorimotor learning. Many analyses of learning require annotating song, but songbirds produce more songs than can be annotated by hand. Existing methods for automating annotation are challenged by variable song, like that of Bengalese finches. For particularly complex song like that of canaries, no methods exist, limiting the questions researchers can investigate.
 
