@@ -63,8 +63,6 @@ Papers in preparation
 -----
 * **Cohen Y**, Cvitanovic P, Solla SA "A novel approach to the empirical characterization of learning in biological systems".
 
-* **Cohen Y**, Nicholson DA, and Gardner TJ "Segmentation and annotation of birdsong with a hybrid recurrent-convolutional neural network".
-
 * Leman DP, Chen IA, Yen, WW, **Cohen Y**, Perkins, LN, Liberti III WA, Kilic K, Cruz-Martin A, Gardner TJ, Otchy TM, Davison IG. "Large-scale cellular-resolution imaging of neural activity in freely behaving mice".
 
 Talks
@@ -75,6 +73,18 @@ Talks
  
 List of invited talks
 -----
+<div style="text-align:left;"> 
+  Weizmann Institute, Dept. of Neurobiology,<span style="float:right;">November 2020</span>
+</div>
+<div style="text-align:left;"> 
+  Hebrew University, ELSC,<span style="float:right;">November 2020</span>
+</div>
+<div style="text-align:left;"> 
+  Birdsong, SFN satellite meeting,<span style="float:right;">October 2020</span>
+</div>
+<div style="text-align:left;"> 
+  Weizmann Institute, Dept. of Complex Systems,<span style="float:right;">October 2020</span>
+</div>
 <div style="text-align:left;"> 
   Technion, Rappaport medical school, Dept. of Neuroscience,<span style="float:right;">December 2019</span>
 </div>
