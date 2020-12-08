@@ -16,4 +16,4 @@ Hence TweetyNet enables automated annotation and analysis of Bengalese finch and
 
 [Download paper here](https://www.biorxiv.org/content/10.1101/2020.08.28.272088v1.full.pdf)
 
-Recommended citation: <b>Cohen Y</b>, Nicholson DA, Gardner TJ (2020) "TweetyNet: A neural network that enables high-throughput, automated annotation of birdsong". <i>bioRxiv</i>
+Recommended citation: <b>Cohen Y</b>, Nicholson DA, Gardner TJ (2020) "TweetyNet: A neural network that enables high-throughput, automated annotation of birdsong". <i>bioRxiv.</i>
