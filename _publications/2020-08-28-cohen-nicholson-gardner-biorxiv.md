@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-08-28-cohen-nicholson-gardner-biorxiv
 excerpt: 'Many studies involving variable birdsong, like that of Bengalese finches and canaries, require that experimenters annotate syllbles -  the basic components of vocal sequences. These studies are currently hindered by the lack of automation means to scale up analyses. We developed TweetyNet, an artificial neural network for automated annotation. This algorithm learns features from data, and does not require segmented syllables to predict annotations. TweetyNet allowed us to annotate many more songs of individual complex singers than previously demonstrated, with high accuracy across individuals and across species. This accuracy allowed fully-automated analyses, saved most of the labor, and revealed novel details of canary syntax in a new strain.'
 date: 2020-02-28
-venue: 'bioRxiv'
+venue: 'bioRxiv (under review, eLife)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.08.28.272088v1.full.pdf'
 citation: '<b>Cohen Y</b>, Nicholson DA, Gardner TJ (2020) &quot;TweetyNet: A neural network that enables high-throughput, automated annotation of birdsong&quot;. <i>bioRxiv</i>'
 ---
