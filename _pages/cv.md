@@ -61,7 +61,6 @@ Publications
   
 Papers in preparation
 -----
-* **Cohen Y**, Cvitanovic P, Solla SA "A novel approach to the empirical characterization of learning in biological systems".
 
 * Leman DP, Chen IA, Yen, WW, **Cohen Y**, Perkins, LN, Liberti III WA, Kilic K, Cruz-Martin A, Gardner TJ, Otchy TM, Davison IG. "Large-scale cellular-resolution imaging of neural activity in freely behaving mice".
 
